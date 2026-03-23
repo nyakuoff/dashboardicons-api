@@ -1,4 +1,4 @@
-# dashboardicons.com APIa
+# dashboardicons.com API
 
 Lightweight REST API to fetch icons from [dashboardicons.com](https://dashboardicons.com/) (2700+ service icons).
 
